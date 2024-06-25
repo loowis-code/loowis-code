@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Lewis</h1>
-<h3 align="center">Graduate Software Engineer @ Skyscanner ✈️</h3>
+<h3 align="center">Software Engineer @ Skyscanner ✈️</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
